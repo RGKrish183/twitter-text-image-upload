@@ -1,7 +1,7 @@
 /*
-*		Author : Gopala Krishnan R (c) rgkrish183@gmail.com
-*		Date :	2017-09-01
-*		Package	:	Twitter Images Uploading	
+*  Author : Gopala Krishnan R (c) rgkrish183@gmail.com
+*  Date :  2017-09-01
+*  Package : Twitter Images Uploading	
 */
 
 
