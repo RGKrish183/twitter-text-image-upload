@@ -3,7 +3,9 @@ Use Node JS to upload Image with status in Twitter
 
 Hi, Most of the blogs and articals posting there codes only for posting text(status) in twitter using this url,
 
-```https://twitter.com/share?text=Hello Krizz&url=some url      //this just showing text with link```
+```
+https://twitter.com/share?text=Hello Krizz&url=some url                    //this just showing text with link
+```
 
 But Here have to Use Node JS to built top on twitter (with api) status and image sharing script.
 
@@ -11,7 +13,9 @@ But Here have to Use Node JS to built top on twitter (with api) status and image
 
 First of all we need to create new project on Twitter App management on below mention this URL. 
 
-``` https://apps.twitter.com/ ```
+``` 
+https://apps.twitter.com/
+```
 
 Sample Images below:
 
@@ -31,7 +35,9 @@ var oauth = {
 
 Media with status updation url getting from offical twitter developer console
 
-``` var url = "https://api.twitter.com/1.1/statuses/update_with_media.json"; ```
+``` 
+var url = "https://api.twitter.com/1.1/statuses/update_with_media.json"; 
+```
 
 Sample Return Json Output below:
 
